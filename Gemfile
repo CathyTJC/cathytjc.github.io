@@ -5,11 +5,11 @@ gem 'webrick', '~> 1.8'
 
 # Core plugins that directly affect site building
 group :jekyll_plugins do
-    gem 'jekyll-archives-v2', '~> 3.0'
+    gem 'jekyll-archives-v2', '~> 0.0.6'
     gem 'jekyll-email-protect', '~> 1.1'
     gem 'jekyll-feed', '~> 0.17'
-    gem 'jekyll-get-json', '~> 0.0.3'
-    gem 'jekyll-imagemagick', '~> 0.0.1'
+    gem 'jekyll-get-json', '~> 1.0.0'
+    gem 'jekyll-imagemagick', '~> 1.4.0'
     gem 'jekyll-jupyter-notebook', '~> 0.0.1'
     gem 'jekyll-link-attributes', '~> 0.0.1'
     gem 'jekyll-minifier', '~> 0.1.10'
