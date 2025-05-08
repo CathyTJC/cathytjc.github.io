@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Assistant Professor</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Assistant Professor</a>, TTIC 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Room 508r</p>
+    <p>Room 508</p>
     <p>6045 South Kenwood Ave</p>
     <p>Chicago, IL 60637</p>
 
@@ -31,5 +31,3 @@ latest_posts:
 I am a tenure-track assistant professor at [Toyota Technological Institute at Chicago (TTIC)](https://www.ttic.edu/). My research focuses on machine learning and optimization, especially on deep learning theory.
 
 I received my PhD from the [Computer Science Department](https://www.ttic.edu/) at Princeton University in 2022, where I was advised by [Prof. Sanjeev Arora](https://www.cs.princeton.edu/~arora/). I was a postdoctoral fellow in [Computer Science Department at Stanford University](https://www.cs.stanford.edu/), working with [Tengyu Ma](https://ai.stanford.edu/~tengyuma/). I did my undergraduate study at [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/) (2013-2017), Tsinghua University.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
