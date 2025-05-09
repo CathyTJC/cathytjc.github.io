@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Assistant Professor</a>, TTIC 
+subtitle: <a href='#'>Assistant Professor</a>, TTIC
 
 profile:
   align: right
@@ -26,7 +26,6 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-
 
 I am a tenure-track assistant professor at [Toyota Technological Institute at Chicago (TTIC)](https://www.ttic.edu/). My research focuses on machine learning and optimization, especially on deep learning theory.
 
