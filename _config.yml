@@ -176,6 +176,8 @@ include: ["_pages", "_scripts"]
 exclude:
   - bin/
   - CONTRIBUTING.md
+  - _news/announcement.md
+  - _pages/blog.md
   - CUSTOMIZE.md
   - Dockerfile
   - docker-compose.yml
