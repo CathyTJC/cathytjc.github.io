@@ -178,9 +178,9 @@ exclude:
   - CONTRIBUTING.md
   - _news/
   - _pages/blog.md
-  - _posts/
-  - _pages/projects/
-  - _pages/repositories/
+  - _pages/_posts/
+  - _pages/projects.md
+  - _pages/repositories.md
   - CUSTOMIZE.md
   - Dockerfile
   - docker-compose.yml
