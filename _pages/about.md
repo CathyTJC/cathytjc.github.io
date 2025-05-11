@@ -4,8 +4,6 @@ title: About
 permalink: /
 subtitle: Assistant Professor, TTIC
 
-Affiliated UChiago 
-
 profile:
   align: left
   image: prof_pic.jpg
