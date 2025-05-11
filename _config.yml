@@ -181,6 +181,7 @@ exclude:
   - _pages/_posts/
   - _pages/projects.md
   - _pages/repositories.md
+  - _pages/dropdown.md
   - CUSTOMIZE.md
   - Dockerfile
   - docker-compose.yml
