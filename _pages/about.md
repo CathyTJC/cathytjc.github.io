@@ -2,9 +2,9 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Assistant Professor</a>, TTIC<br>
-Affiliated UChiago <br>
-xxxx
+subtitle: Assistant Professor, TTIC
+
+Affiliated UChiago 
 
 profile:
   align: left
