@@ -2,7 +2,9 @@
 layout: about
 title: About
 permalink: /
-subtitle: Assistant Professor, TTIC
+subtitle: >
+  <p>Assistant Professor, TTIC </p>
+  <p>Afflicated Professor in xxx, University of Chicago </p>
 
 profile:
   align: left
