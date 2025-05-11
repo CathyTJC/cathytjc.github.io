@@ -12,7 +12,9 @@ profile:
     <p>Room 508</p>
     <p>6045 South Kenwood Ave</p>
     <p>Chicago, IL 60637</p>
-    <p>   </p>
+    <p>       </p>
+    <p>       </p>
+    <p>       </p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
