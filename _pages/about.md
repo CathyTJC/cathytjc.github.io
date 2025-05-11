@@ -3,9 +3,11 @@ layout: about
 title: About
 permalink: /
 subtitle: <a href='#'>Assistant Professor</a>, TTIC
+subtitle: affiliated UChiago
+subtitle: xxxx
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
