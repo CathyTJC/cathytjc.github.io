@@ -3,8 +3,8 @@ layout: about
 title: About
 permalink: /
 subtitle: >
-  <p>Assistant Professor, TTIC </p>
-  <p>Afflicated Professor in xxx, University of Chicago </p>
+  <p>Assistant Professor, Toyota Technological Institute at Chicago (TTIC)</p>
+  <p>Affiliated faculty of the department of computer science, the University of Chicago </p>
 
 profile:
   align: left
@@ -13,10 +13,20 @@ profile:
   more_info: >
     <p>Room 508</p>
     <p>6045 South Kenwood Ave</p>
-    <p>Chicago, IL 60637</p>
+    <p>Chicago, IL 60637                                                </p>
     <p>       </p>
     <p>       </p>
     <p>       </p>
+    <p>       </p>
+    <p>       </p>
+    <p>       </p>
+    <p>       </p>
+    <p>       </p>
+    <p>       </p>
+    <p>       </p>
+    <p>       </p>
+    <p>       </p>
+
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page

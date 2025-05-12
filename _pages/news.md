@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Awards and Honors
+title: News
 permalink: /news/
 ---
 
